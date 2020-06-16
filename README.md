@@ -1,2 +1,2 @@
-# demo
-a demoe app for my test
+# this is my read me file
+a demo app for my read test
