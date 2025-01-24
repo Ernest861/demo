@@ -407,8 +407,11 @@
         <mxCell id="fP5M8shgC96ckiccFGSR-6" value="Social Isolation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1" width="99" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-7" value="Social Isolation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="236" width="99" height="26" as="geometry" />
+        <mxCell id="fP5M8shgC96ckiccFGSR-7" value="Social Reward" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2" y="236" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5M8shgC96ckiccFGSR-8" value="Social Conformity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="472" width="112" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
