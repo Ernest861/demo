@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.9">
   <diagram name="Page-1" id="I2RzQkV2m2pnWG8UewLT">
-    <mxGraphModel dx="991" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="709" pageHeight="236" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="709" pageHeight="236" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,11 +52,6 @@
         <mxCell id="CC86WL3dVChZbo9_PTtD-32" value="&lt;div&gt;12 days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;20 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CC86WL3dVChZbo9_PTtD-26" vertex="1">
           <mxGeometry x="20" y="30" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CC86WL3dVChZbo9_PTtD-29" value="MRI session 1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="11" y="26" width="40" height="130" as="geometry">
-            <mxRectangle x="40" y="160" width="40" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CC86WL3dVChZbo9_PTtD-30" value="MRI session 3" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="460" y="26" width="40" height="130" as="geometry">
             <mxRectangle x="40" y="160" width="40" height="120" as="alternateBounds" />
@@ -64,11 +59,6 @@
         </mxCell>
         <mxCell id="CC86WL3dVChZbo9_PTtD-31" value="95" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="459" y="176" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CC86WL3dVChZbo9_PTtD-33" value="MRI session 2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;startSize=29;" parent="1" vertex="1">
-          <mxGeometry x="262" y="26" width="41" height="130" as="geometry">
-            <mxRectangle x="40" y="160" width="40" height="120" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CC86WL3dVChZbo9_PTtD-34" value="Manipulate&amp;nbsp;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="511" y="26" width="39" height="130" as="geometry">
@@ -395,22 +385,22 @@
         <mxCell id="CC86WL3dVChZbo9_PTtD-197" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="610" y="680" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-3" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-3" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="173" width="43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-4" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-4" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="412" width="43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-5" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-5" value="PND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="650" width="43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-6" value="Social Isolation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-6" value="Social Isolation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1" width="99" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-7" value="Social Reward" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-7" value="Social Reward" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2" y="236" width="95" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fP5M8shgC96ckiccFGSR-8" value="Social Conformity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fP5M8shgC96ckiccFGSR-8" value="Social Conformity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="472" width="112" height="26" as="geometry" />
         </mxCell>
       </root>
