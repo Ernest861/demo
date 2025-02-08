@@ -56,7 +56,7 @@
           <mxGeometry x="23" y="1.060000000000033" width="167.34" height="127.88" as="geometry" />
         </mxCell>
         <mxCell id="qm0lJnO3ZoHjnvxUR720-2" value="&lt;b&gt;Extinction&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;amp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Relaspse&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CC86WL3dVChZbo9_PTtD-26">
-          <mxGeometry x="170.99999999999997" y="49" width="76" height="55" as="geometry" />
+          <mxGeometry x="173.99999999999997" y="49" width="76" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CC86WL3dVChZbo9_PTtD-31" value="64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="395" y="176" width="20" height="20" as="geometry" />
