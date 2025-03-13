@@ -34,6 +34,41 @@
         <mxCell id="gdm9CZV6I5VWxYnbLnco-16" value="1. Number of subjects&#xa;2. Age range&#xa;3. SA status" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="166" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-17" value="Choice&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-18" value="Response Time" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="354" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-19" value="关于时间参数的反应函数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-20" value="关于时间参数的反应函数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-21" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="680" as="sourcePoint" />
+            <mxPoint x="200" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-22" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="680" as="sourcePoint" />
+            <mxPoint x="40" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="670" as="sourcePoint" />
+            <mxPoint x="190" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="650" />
+              <mxPoint x="80" y="620" />
+              <mxPoint x="130" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
