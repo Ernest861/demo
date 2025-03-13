@@ -1,47 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="DYw3icbClSaxP4PzQXzK">
-    <mxGraphModel dx="1598" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="709" pageHeight="236" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="709" pageHeight="236" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gdm9CZV6I5VWxYnbLnco-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="340" y="69" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="gdm9CZV6I5VWxYnbLnco-1" target="gdm9CZV6I5VWxYnbLnco-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-1" value="Rat DDT&amp;nbsp;&lt;div&gt;normative model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-2" value="SA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="118" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="118" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-5" value="Trajectory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="45" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="84" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-6" value="Subgroup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="69" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-7" value="Outliers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="99" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdm9CZV6I5VWxYnbLnco-9" value="more better index for animal impassivity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gdm9CZV6I5VWxYnbLnco-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="108" width="160" height="60" as="geometry" />
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-14" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;1. Initial preference&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;2. Reaction time&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;3. Interaction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gdm9CZV6I5VWxYnbLnco-11" value="Trajectory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="123" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gdm9CZV6I5VWxYnbLnco-12" value="Subgroup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="108" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gdm9CZV6I5VWxYnbLnco-13" value="Outliers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="138" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gdm9CZV6I5VWxYnbLnco-14" value="&lt;div&gt;1. Time sequence&lt;/div&gt;&lt;div&gt;2. Relationship&lt;/div&gt;&lt;div&gt;3. Cause and effect&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="70" width="130" height="60" as="geometry" />
+        <mxCell id="gdm9CZV6I5VWxYnbLnco-16" value="1. Number of subjects&#xa;2. Age range&#xa;3. SA status" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="166" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
