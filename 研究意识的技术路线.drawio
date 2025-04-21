@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13">
   <diagram name="Page-1" id="iwGDfZbPwfsLXHP-5m7f">
-    <mxGraphModel>
+    <mxGraphModel dx="641" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="669" pageHeight="709" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mkePxA8O3_albDB4eFhl-1" value="对比法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-2" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Harding, Palatino, serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;比较有意识和无意识实验条件下神经元和心理水平上发生的事情&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-4" value="全局神经元工作空间理论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-5" value="高阶理论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="235" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-6" value="局部递归理论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-8" value="哺乳动物大脑中假定的额顶叶网络应该支持在有意识体验期间传播刺激相关信息" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-9" value="神经元对视觉刺激处理的第一次前馈扫描发生在无意识中，只有当信息从高级视觉区域反馈到早期视觉区域时，才会出现有意识的感知" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-10" value="我们应该可以操纵主观体验，同时保持较低层次的感官反应和感知能力不变，以便对类似刺激进行分辨。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="245" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-11" value="&lt;strong&gt;意识的存在和质量取决于系统整合信息的能力&lt;/strong&gt;。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="355" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mkePxA8O3_albDB4eFhl-13" value="定义节点与离散状态：将大脑区域离散化，确定每个节点的状态。&#xa;&#xa;&#xa;推断因果动态：利用 fMRI 数据（最好结合动态因果模型，如 DCM）估计各节点之间的有效（因果）连接，构建状态转移概率矩阵（TPM）。&#xa;&#xa;&#xa;计算因果谱：根据 TPM 计算系统当前状态下对过去和未来状态产生的因果谱。&#xa;&#xa;&#xa;最小割分与Φ值计算：遍历可能的分割，寻找最小信息分割（MIP），并计算系统整体与分割后的有效信息差异，即Φ值。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="560" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465" link="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465" id="mkePxA8O3_albDB4eFhl-14">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="160" y="640" width="450" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
