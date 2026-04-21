@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Grok">
   <diagram id="fig1-amygdala-connectivity" name="Figure 1">
-    <mxGraphModel dx="1709" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="650" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="650" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hippo" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#2E75B6;fontColor=#000000" value="Hippocampus" vertex="1">
-          <mxGeometry height="50" width="90" x="240" y="230" as="geometry" />
+          <mxGeometry height="50" width="90" x="230" y="170" as="geometry" />
         </mxCell>
         <mxCell id="edge_hippo" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2E75B6;strokeWidth=3;endArrow=none;dashed=1;" target="hippo" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="insula" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#2E75B6;fontColor=#000000" value="Insula" vertex="1">
-          <mxGeometry height="50" width="90" x="110" y="310" as="geometry" />
+          <mxGeometry height="50" width="90" x="110" y="220" as="geometry" />
         </mxCell>
         <mxCell id="edge_insula" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2E75B6;strokeWidth=3;endArrow=none;dashed=1;" target="insula" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -28,13 +28,13 @@
         <mxCell id="thalamus" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C55A11;fontColor=#000000" value="Thalamus" vertex="1">
           <mxGeometry height="50" width="90" x="610" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="edge_thal" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=classic;" target="thalamus" value="">
+        <mxCell id="edge_thal" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=block;endFill=1;" target="thalamus" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sensor" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=#C55A11;fontColor=#000000" value="Sensorimotor&lt;br&gt;Cortex" vertex="1">
-          <mxGeometry height="60" width="110" x="610" y="170" as="geometry" />
+          <mxGeometry height="60" width="110" x="610" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="edge_sensor" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=classic;" target="sensor" value="">
+        <mxCell id="edge_sensor" edge="1" parent="1" source="amygdala" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=block;endFill=1;" target="sensor" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="blue_line" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#2E75B6;strokeWidth=4;dashed=1;endArrow=none;" value="">
@@ -43,28 +43,28 @@
         <mxCell id="red_line" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#C55A11;strokeWidth=4;endArrow=classic;" value="">
           <mxGeometry height="10" relative="1" width="60" x="70" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="90" width="320" x="400" y="280" as="geometry" />
+        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="42.5" width="306" x="412" y="226" as="geometry" />
         </mxCell>
-        <mxCell id="legend_box" parent="hQ2lVMo1N9eBhVmln0Uv-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F8F8;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="90" width="320" as="geometry" />
+        <mxCell id="legend_box" parent="hQ2lVMo1N9eBhVmln0Uv-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F8F8;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="42.5" width="306" as="geometry" />
         </mxCell>
-        <mxCell id="blue_text" parent="hQ2lVMo1N9eBhVmln0Uv-3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11" value="Hypoconnectivity (weakened top-down control)" vertex="1">
-          <mxGeometry height="20" width="170" x="50" y="17.5" as="geometry" />
+        <mxCell id="blue_text" parent="hQ2lVMo1N9eBhVmln0Uv-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11" value="Hypoconnectivity (weakened top-down control)" vertex="1">
+          <mxGeometry height="20" width="170" x="45" y="1" as="geometry" />
         </mxCell>
-        <mxCell id="red_text" parent="hQ2lVMo1N9eBhVmln0Uv-3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11" value="Hyperconnectivity (heightened cue-driven reactivity)" vertex="1">
-          <mxGeometry height="20" width="180" x="50" y="52.5" as="geometry" />
+        <mxCell id="red_text" parent="hQ2lVMo1N9eBhVmln0Uv-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11" value="Hyperconnectivity (heightened cue-driven reactivity)" vertex="1">
+          <mxGeometry height="20" width="180" x="45" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-1" edge="1" parent="hQ2lVMo1N9eBhVmln0Uv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2E75B6;strokeWidth=3;endArrow=none;dashed=1;" value="">
+        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-1" edge="1" parent="hQ2lVMo1N9eBhVmln0Uv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2E75B6;strokeWidth=3;endArrow=none;dashed=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="27" as="sourcePoint" />
-            <mxPoint x="10" y="30" as="targetPoint" />
+            <mxPoint x="35" y="10.5" as="sourcePoint" />
+            <mxPoint x="5" y="13.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-2" edge="1" parent="hQ2lVMo1N9eBhVmln0Uv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=none;endFill=0;" value="">
+        <mxCell id="hQ2lVMo1N9eBhVmln0Uv-2" edge="1" parent="hQ2lVMo1N9eBhVmln0Uv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#C55A11;strokeWidth=3;endArrow=none;endFill=0;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="62.25999999999999" as="sourcePoint" />
-            <mxPoint x="40" y="62.25999999999999" as="targetPoint" />
+            <mxPoint x="7" y="29.75999999999999" as="sourcePoint" />
+            <mxPoint x="37" y="29.75999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
